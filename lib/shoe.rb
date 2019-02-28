@@ -3,6 +3,8 @@ class Shoe
     @brand=brand
   end
 attr_reader:brand
+
+attr_accessor 
   
   
 end
