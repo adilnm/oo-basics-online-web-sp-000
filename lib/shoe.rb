@@ -7,6 +7,7 @@ attr_reader:brand
 attr_accessor:color,:material,:condition,:size 
   
   def cobble
+    
   end
   
 end
