@@ -10,5 +10,5 @@ attr_accessor:color,:material,:condition,:size
    puts "Your shoe is as good as new!"
    condition="new"
   end
-  condition="new"
 end
+show.condition="new"
