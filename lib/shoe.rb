@@ -7,7 +7,7 @@ attr_reader:brand
 attr_accessor:color,:material,:condition,:size 
   
   def cobble
-    
+   puts "Your shoe is as good as new!"
   end
   
 end
