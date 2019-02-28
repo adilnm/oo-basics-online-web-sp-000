@@ -4,7 +4,7 @@ class Shoe
   end
 attr_reader:brand
 
-attr_accessor:color,:material,:condition 
+attr_accessor:color,:material,:condition,:size 
   
   
 end
