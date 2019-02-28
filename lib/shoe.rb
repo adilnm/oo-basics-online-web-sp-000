@@ -7,7 +7,7 @@ attr_reader:brand
 attr_accessor:color,:material,:condition,:size 
   
   def cobble
-    puts 
+    puts "the shoe has been repaired"
   end
   
 end
